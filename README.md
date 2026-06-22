@@ -91,43 +91,43 @@ A modern GUI-based Digital Forensic Investigation Toolkit developed in Python us
 
 ### 🔍 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### 🗂 Case Management
 
-![Case Management](screenshots/case-management.png)
+![Case Management](screenshots/case-management.PNG)
 
 ### 📁 View Cases
 
-![View Cases](screenshots/view-cases.png)
+![View Cases](screenshots/view-cases.PNG)
 
 ### 🔐 Hash Analysis
 
-![Hash Analysis](screenshots/hash-analysis.png)
+![Hash Analysis](screenshots/hash-analysis.PNG)
 
 ### 📄 Metadata Analysis
 
-![Metadata Analysis](screenshots/metadata-analysis.png)
+![Metadata Analysis](screenshots/metadata-analysis.PNG)
 
 ### 📸 EXIF Analysis
 
-![EXIF Analysis](screenshots/exif-analysis.png)
+![EXIF Analysis](screenshots/exif-analysis.PNG)
 
 ### 📑 PDF Analysis
 
-![PDF Analysis](screenshots/pdf-analysis.png)
+![PDF Analysis](screenshots/pdf-analysis.PNG)
 
 ### ⏳ Timeline Analysis
 
-![Timeline Analysis](screenshots/timeline-analysis.png)
+![Timeline Analysis](screenshots/timeline-analysis.PNG)
 
 ### ⚠️ Suspicious File Scanner
 
-![Suspicious Scanner](screenshots/suspicious-scanner.png)
+![Suspicious Scanner](screenshots/suspicious-scanner.PNG)
 
 ### 📝 Report Generator
 
-![Report Generator](screenshots/report-generator.png)
+![Report Generator](screenshots/report-generator.PNG)
 
 ---
 
